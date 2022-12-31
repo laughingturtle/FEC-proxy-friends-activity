@@ -22,7 +22,7 @@
     "babel": "^6.23.0",
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
     "nodemon": "^1.18.9",
-    "webpack": "^4.28.0"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "bootstrap": "^3.4.0",
